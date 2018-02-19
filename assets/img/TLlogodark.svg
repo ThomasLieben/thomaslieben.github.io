@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3223.292 606.292 461.416 410.708">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(0,0,0,0.8);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 300px;
+        font-family: Lato-SemiboldItalic, Lato;
+        font-weight: 600;
+        letter-spacing: -0.121em;
+        font-style: italic;
+      }
+
+      .cls-3 {
+        font-family: Lato-Light, Lato;
+        font-weight: 300;
+        font-style: normal;
+      }
+    </style>
+  </defs>
+  <g id="Groupe_3" data-name="Groupe 3" transform="translate(2073 471)">
+    <path id="Soustraction_1" data-name="Soustraction 1" class="cls-1" d="M-1787.777,404.708h-176.444l-102.487-281.581L-1728.419,0l123.127,338.289-182.485,66.419Z" transform="translate(3217 135.292)"/>
+    <text id="TL" class="cls-2" transform="translate(1232 482)"><tspan x="0" y="0">T</tspan><tspan class="cls-3" y="0">L</tspan></text>
+  </g>
+</svg>
