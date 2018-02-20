@@ -7,7 +7,7 @@ url                          : "http://thomaslieben.github.io" # the base hostna
 blog:
   title                      : Thomas
   description                  : >
-                               this should contain a proper description
+                               Made with GitHub, a lotta love and
 
 # Layout configuration
   logo_path                  : "assets/img/TLlogodark.svg" # path to logo file
@@ -29,9 +29,9 @@ author:
   fullname                  : Thomas Lieben
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      :  # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
+  twitter                   : Shadow_Liberty
+  github                    : thomaslieben
+  youtube                   : Shadow Liberty
   stackoverflow             : stackoverflow-user-name
   disqus                    : thomaslieben # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
