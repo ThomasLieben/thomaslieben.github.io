@@ -28,7 +28,7 @@ blog:
 author:
   fullname                  : Thomas Lieben
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      :  # change to your e-mail address
+  mail                      : truethomaslieben+business@gmail.com
   twitter                   : Shadow_Liberty
   github                    : thomaslieben
   youtube                   : Shadow Liberty
