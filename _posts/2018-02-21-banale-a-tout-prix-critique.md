@@ -25,7 +25,7 @@ Donc la semaine dernière je me suis rendu dans ma librairie, direction le rayon
 
 Sans hésiter donc je me suis procuré les deux premiers tomes édités chez Kana. Et savez-vous quoi ? J’ai adoré.
 
-![Couvertures de "Banale à tout prix" 1 et 2]({{ "/uploads/Banale-à-tout-prix-1-2.png" | absolute_url }})
+![Couvertures de "Banale à tout prix" 1 et 2]({{ "/uploads/Banale-a-tout-prix-1-2.png" | absolute_url }})
 
 En voici le synopsis:
 > Ayant pour exemples une mère trop romantique et une grande soeur trop coincée, Koiko a décidé d’être « normale », dans la moyenne, ni trop, ni trop peu. Son quotidien banal bascule lorsqu’elle découvre que son petit ami, très banal, est en train de la tromper !
