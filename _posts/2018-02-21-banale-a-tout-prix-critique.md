@@ -6,7 +6,7 @@ tags:
   - manga
 hero: /uploads/BAT-Hero.png
 cover: /uploads/BAT-Hero.png
-description: Je dois bien avouer que j’ai rarement lu de Shojo, non pas parce que j’étais un garçon trop masculin pour ce genre de choses, au contraire. En réalité c’est parce que je n’ai jamais vraiment trouvé d’histoires qui me parlent lorsque j’ai commencé à me plonger dans l’univers des manga il y a maintenant bien plus de 10 ans [...]
+description: Je dois bien avouer que j’ai rarement lu de Shojo, non pas parce que j’étais un garçon trop masculin pour ce genre de choses, au contraire. En réalité c’est parce que je n’ai jamais vraiment trouvé d’histoires qui me parlaient lorsque j’ai commencé à me plonger dans l’univers des manga il y a maintenant bien plus de 10 ans [...]
 overlay: red
 published: true
 ---
@@ -14,12 +14,12 @@ published: true
 
 De Nagamu Nanaji - Kana  
 
-Je dois bien avouer que j’ai rarement lu de Shojo, non pas parce que j’étais un garçon trop masculin pour ce genre de choses, au contraire. En réalité c’est parce que je n’ai jamais vraiment trouvé d’histoires qui me parlent lorsque j’ai commencé à me plonger dans l’univers des manga il y a maintenant bien plus de 10 ans.
+Je dois bien avouer que j’ai rarement lu de Shojo, non pas parce que j’étais un garçon trop masculin pour ce genre de choses, au contraire. En réalité c’est parce que je n’ai jamais vraiment trouvé d’histoires qui me parlaient lorsque j’ai commencé à me plonger dans l’univers des manga il y a maintenant bien plus de 10 ans.
 {: .lead}
 <!–-break-–>
 À l’époque *Fullmetal Alchemist, Black Jack, Naruto* et compagnie occupaient une grande partie de mon temps, et le peu de Shojo qu’il m’est arrivé de croiser étaient pour le moins… *ennuyeux* (je ne saurais même plus vous donner les titres). Puis une fois dans ma lancée je n’ai plus jamais fait attention au genre, me contentant de Shonen et Seinen.
 
-Étant un grand consommateur d’anime je me suis tardivement rendu compte qu’un des genres qui m’intéressaient le plus était les anime que l’on pourrait qualifier de « slice of life ». La pièce a mis du temps à tomber, mais une fois cela fait je me suis décidé à me pencher sur les oeuvres originales d’après lesquelles ces anime avaient été réalisés. Un certain Orange par exemple. À ma grande surprise, j’appris que ce genre d’histoire était généralement des manga Shojo ! Vous allez me dire que ça va de soi, mais comme je vous l’ai dit, je suis un peu lent à la détente.
+Étant un grand consommateur d’anime je me suis tardivement rendu compte qu’un des genres qui m’intéressaient le plus était les anime que l’on pourrait qualifier de « slice of life ». La pièce a mis du temps à tomber, mais une fois cela fait je me suis décidé à me pencher sur les oeuvres originales d’après lesquelles ces anime avaient été réalisés. Un certain Orange par exemple. À ma grande surprise, j’appris que ce genre d’histoires constituait généralement des manga Shojo ! Vous allez me dire que ça va de soi, mais comme je vous l’ai dit, je suis un peu lent à la détente.
 
 Donc la semaine dernière je me suis rendu dans ma librairie, direction le rayon manga, j’ai contourné la petite table qui sert de présentoir pour les nouveautés se trouvant au centre d’un demi-cercle composé d’étagères hautes contenants toutes des manga - il doit y avoir 8 étagères - pour me rendre du côté des nouveautés Shojo. Et là… Outre les dessins très léchés et doux qu’arboraient les couvertures des différents ouvrages, des tomes 6 et 7 de *Moving Forward* de l’édition deluxe de *Fruits Basket* ou encore du petit nouveau *Fruits Basket Another*, j’ai été frappé par la couleur rouge et le design d’un charisme fou de la couverture de *Banale à tout prix*.
 
