@@ -73,26 +73,7 @@ header {
   }
 }
 
-@media (max-width: 29rem) {
-    header {
-        margin-bottom: 2rem;
-    }
-    .menu,
-    .social {
-        @include centered-block();
-    }
-    // fake it till you make it
-    .logo {
-      margin-top: 5rem;
-      .logosvg {
-        display: block;
-        margin: -15rem auto 11rem auto;
-        height: 3rem;
-      }
-    }
-}
-
-@media (max-width: 48rem) and (min-width:29rem) {
+@media (max-width: 48rem) {
     header {
         margin-bottom: 2rem;
     }
