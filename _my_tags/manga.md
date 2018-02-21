@@ -1,0 +1,4 @@
+---
+slug: manga
+name: Manga
+---

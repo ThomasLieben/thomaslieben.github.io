@@ -5,6 +5,8 @@ tags:
   - critique
   - manga
 hero: /uploads/BAT-Hero.png
+cover: /uploads/BAT-Hero.png
+description: Je dois bien avouer que j’ai rarement lu de Shojo, non pas parce que j’étais un garçon trop masculin pour ce genre de choses, au contraire. En réalité c’est parce que je n’ai jamais vraiment trouvé d’histoires qui me parlent lorsque j’ai commencé à me plonger dans l’univers des manga il y a maintenant bien plus de 10 ans [...]
 overlay: red
 published: true
 ---
