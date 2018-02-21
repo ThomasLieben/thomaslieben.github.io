@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Banale à tout prix tome 1 & 2"
+title:  "Banale à tout prix tomes 1 & 2"
 tags:
   - critique
   - manga
