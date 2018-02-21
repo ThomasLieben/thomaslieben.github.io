@@ -5,7 +5,7 @@ tags:
   - critique
   - manga
 hero: /uploads/BAT-Hero.png
-overlay: purple
+overlay: red
 published: true
 ---
 ## Banale à tout prix T1&2
@@ -14,9 +14,8 @@ De Nagamu Nanaji - Kana
 
 Je dois bien avouer que j’ai rarement lu de Shojo, non pas parce que j’étais un garçon trop masculin pour ce genre de choses, au contraire. En réalité c’est parce que je n’ai jamais vraiment trouvé d’histoires qui me parlent lorsque j’ai commencé à me plonger dans l’univers des manga il y a maintenant bien plus de 10 ans.
 {: .lead}
-
-À l’époque *Fullmetal Alchemist, Black Jack, Naruto* et compagnie occupaient une grande partie de mon temps, et le peu de Shojo qu’il m’est arrivé de croiser étaient pour le moins… *ennuyeux* (je ne saurais même plus vous donner les titres). Puis une fois dans ma lancée je n’ai plus jamais fait attention au genre, me contentant de Shonen et Seinen.
 <!–-break-–>
+À l’époque *Fullmetal Alchemist, Black Jack, Naruto* et compagnie occupaient une grande partie de mon temps, et le peu de Shojo qu’il m’est arrivé de croiser étaient pour le moins… *ennuyeux* (je ne saurais même plus vous donner les titres). Puis une fois dans ma lancée je n’ai plus jamais fait attention au genre, me contentant de Shonen et Seinen.
 
 Étant un grand consommateur d’anime je me suis tardivement rendu compte qu’un des genres qui m’intéressaient le plus était les anime que l’on pourrait qualifier de « slice of life ». La pièce a mis du temps à tomber, mais une fois cela fait je me suis décidé à me pencher sur les oeuvres originales d’après lesquelles ces anime avaient été réalisés. Un certain Orange par exemple. À ma grande surprise, j’appris que ce genre d’histoire était généralement des manga Shojo ! Vous allez me dire que ça va de soi, mais comme je vous l’ai dit, je suis un peu lent à la détente.
 
