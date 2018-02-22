@@ -37,3 +37,7 @@ L’auteure n’en est pas à son coup d’essai de ce que j’ai compris, et bi
 La lecture de ces deux premiers tomes est extrêmement confortable et étrangement elle a eu un certain effet apaisant. Ici, pas de grands enjeux, pas des grandes souffrances. Il s’agit simplement de la rencontre de deux jeunes, tout ce qu’il y a de plus normal, déjà de par l’évènement et ensuite de par la façon dont se décrit Koiko, une fille banale, normale. Bien qu’elle soit têtue et arrêtée sur ses idées et sa vision de l’amour, Koiko n’est pas une caricature de ce personnage inaccessible qui aurait comme but de bloquer l’évolution de la relation qu’elle entretient avec Tsurugi afin de repousser la résolution du récit. Non, Koiko vacille, elle doute, elle change. Sur ce point Nagamu Nanaji réussit à insuffler un vrai semblant de vie à ses personnages, leurs réactions sont naturelles et souvent touchantes, comme si l’on observait deux amis chers évoluer dans leur relation en se réjouissant pour eux. On se prend au jeu et l’on espère tout en profitant du moment présent, des petites choses qu’ils vivent ensemble, on aurait presque l’impression que l’on écoute ce qu’une amie nous confierait.
 
 J’ai hâte que Koiko me raconte la suite de son histoire.
+
+<br/>
+
+<iframe src="https://anchor.fm/thomaslieben/embed/episodes/Banale--tout-prix-T12-e12vh5/a-a2eqoj" height="270px" width="400px" frameborder="0" scrolling="no"></iframe>
