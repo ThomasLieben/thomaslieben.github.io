@@ -40,4 +40,4 @@ J’ai hâte que Koiko me raconte la suite de son histoire.
 
 <br/>
 
-<iframe src="https://anchor.fm/thomaslieben/embed/episodes/Banale--tout-prix-T12-e12vh5/a-a2eqoj" height="270px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/thomaslieben/embed/episodes/Banale--tout-prix-T12-e12vh5/a-a2eqoj" height="270px" width="100%" frameborder="0" scrolling="no"></iframe>
