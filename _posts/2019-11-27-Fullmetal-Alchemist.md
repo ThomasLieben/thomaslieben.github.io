@@ -21,6 +21,10 @@ Toujours sur le mode de la bouteille à la mer pour qui verra et qui recevra ces
 
 Et sans suivre aucun ordre d’importance je commence aujourd’hui avec Fullmetal Alchemist.
 
+##Fullmetal Alchemist
+**De Hiromu Arakawa
+2001-2010**
+
 ![Couverture de Fullmetal Alchemist tome 1]({{ "/uploads/Fullmetal.jpg" | absolute_url }})
 
 Fullmetal Alchemist est sans doute l’une des oeuvres, sinon la principale, qui sont responsables de mon amour et intérêt pour les manga, qui n’a eu de cesses d’évoluer au coeur de ma vie, pour devenir une passion pour le pays qu’est le Japon et sa culture au sens large. Pour devenir aussi un projet de vie,  d’études et de carrière.
