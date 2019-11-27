@@ -33,7 +33,7 @@ Fullmetal Alchemist c’était aussi, quand j’étais plus petit, en la personn
 L’opening, entendez générique, de la seconde série animée de Fullmetal Alchemist est également une chanson omniprésente dans ma vie depuis sa diffusion. Again, par l’artiste Yui, berce mes oreilles au moins une fois par semaine, et sinon au moins une fois par mois depuis à peu près 2009. C'est également cette série animée qui m’a fait découvrir de nombreuses caractéristiques de l’industrie des anime japonais, de par mon intérêt pour son studio d’animation, le studio Bones.
 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/2uq34TeWEdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2uq34TeWEdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 La première série, datant elle de 2003 est le premier anime que j’ai acheté en intégral, lors d’un voyage à Paris il y a quelques années, sous forme d’une collection exclusive Fnac.
 
