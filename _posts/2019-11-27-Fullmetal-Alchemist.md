@@ -14,7 +14,7 @@ published: true
 
 Alors que 2019 s’achève tout doucement et que 2020 s’apprête à pointer le bout de son nez, ce sont les vingts premières années de ce siècle et ce millénaire qui seront bientôt derrière. 2020 sera une année du symbolisme à bien des égards pour beaucoup d’entre-nous en fonction de nos sensibilités.
 {: .lead}
-<!–-break-–>
+
 Ce que m’inspire 2020 c’est de refléter sur l’entièreté des œuvres que j’ai eu le plaisir de découvrir ces 20 dernières années. J’ai donc pensé intéressant pour moi, avant de tourner la page 2019 et d’ouvrir le chapitre 2020, de partager une série d’oeuvres toutes ayant une place importante dans mon coeur et qui ont rythmé mes journées au cours de ces années.
 
 Toujours sur le mode de la bouteille à la mer pour qui verra et qui recevra ces quelques articles.
