@@ -33,7 +33,7 @@ Je me souviendrai toujours des émotions que j’ai ressenties lors de la lectur
 Fullmetal Alchemist c’était aussi, quand j’étais plus petit, en la personne d’Eward Elric, un personnage décidément badass, bon, et intelligent. Il était sans doute tout ce que je voulais être en grandissant. De nombreux choix au cours de ma vie ont sans doute été influencés par Edward. Notamment les longs cheveux...
 
 L’opening, entendez générique, de la seconde série animée de Fullmetal Alchemist est également une chanson omniprésente dans ma vie depuis sa diffusion. Again, par l’artiste Yui, berce mes oreilles au moins une fois par semaine, et sinon au moins une fois par mois depuis à peu près 2009. C'est également cette série animée qui m’a fait découvrir de nombreuses caractéristiques de l’industrie des anime japonais, de par mon intérêt pour son studio d’animation, le studio Bones.
-<!–-break-–>
+<br/>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2uq34TeWEdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
