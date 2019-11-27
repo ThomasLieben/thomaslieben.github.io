@@ -1,16 +1,14 @@
-
----
+ ---
 layout: post
-title:  "Fullmetal Alchemist Brotherhood"
+title:  "Fullmetal Alchemist"
 tags:
-	- blog
-	- manga
+  - blog
+  - manga
 hero: /uploads/levius-1-kana.jpg
 cover: /uploads/levius-cover.jpg
 description: Levius, loin d’être une nouveauté du catalogue de Kana, me faisait de l’oeil depuis un moment. D’une part de par ses couvertures colorées aux illustrations d’une légèreté envoûtante bien que représentant une certaine rigidité et dureté des personnages, mais également par son format unique un sens de lecture occidental, mais d’origine s’il vous plaît ![...]
 overlay: orange
 published: true
-
 ---
 ## Vingt ans dans un millénaire - Fullmetal Alchemist
 
