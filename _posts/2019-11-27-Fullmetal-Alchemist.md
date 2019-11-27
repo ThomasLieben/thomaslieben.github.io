@@ -23,7 +23,7 @@ Et sans suivre aucun ordre d’importance je commence aujourd’hui avec Fullmet
 
 ## Fullmetal Alchemist
 **De Hiromu Arakawa**
-
+<br/>
 **2001-2010**
 
 ![Couverture de Fullmetal Alchemist tome 1]({{ "/uploads/Fullmetal.jpg" | absolute_url }})
