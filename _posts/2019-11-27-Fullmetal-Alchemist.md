@@ -2,10 +2,10 @@
 layout: post
 title:  "Fullmetal Alchemist"
 tags:
-  - critique
+  - blog
   - manga
-hero: /uploads/levius-1-kana.jpg
-cover: /uploads/levius-cover.jpg
+hero: /uploads/8F98FAEA-F94B-4A21-AD68-D8F81EE7DF91.jpeg
+cover: /uploads/8F98FAEA-F94B-4A21-AD68-D8F81EE7DF91.jpeg
 description: Levius, loin d’être une nouveauté du catalogue de Kana, me faisait de l’oeil depuis un moment. D’une part de par ses couvertures colorées aux illustrations d’une légèreté envoûtante bien que représentant une certaine rigidité et dureté des personnages, mais également par son format unique un sens de lecture occidental, mais d’origine s’il vous plaît ![...]
 overlay: orange
 published: true
@@ -16,7 +16,7 @@ Alors que 2019 s’achève tout doucement et que 2020 s’apprête à pointer le
 {: .lead}
 <!–-break-–>
 
-![Couverture de Levius tome 1]({{ "/uploads/levius-1-kana.jpg" | absolute_url }})
+![Couverture de Fullmetal Alchemist tome 1]({{ "/uploads/Fullmetal.jpg" | absolute_url }})
 
 Ce que m’inspire 2020 c’est de refléter sur l’entièreté des œuvres que j’ai eu le plaisir de découvrir ces 20 dernières années. Ayant depuis quelques années maintenant utilisé cette plateforme pour partager des tas d’oeuvres, souvent musicales, que j’ai rencontrées, parfois furtivement, d’autres me suivant jusqu’à ce jour, j’ai pensé intéressant pour moi, avant de tourner la page 2019 et d’ouvrir le chapitre 2020, de partager une série d’oeuvres toutes ayant une place importante dans mon coeur et qui ont rythmé mes journées au cours de ces années.
 
