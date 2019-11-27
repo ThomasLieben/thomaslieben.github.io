@@ -21,7 +21,7 @@ Toujours sur le mode de la bouteille à la mer pour qui verra et qui recevra ces
 
 Et sans suivre aucun ordre d’importance je commence aujourd’hui avec Fullmetal Alchemist.
 
-##Fullmetal Alchemist
+## Fullmetal Alchemist
 **De Hiromu Arakawa
 2001-2010**
 
