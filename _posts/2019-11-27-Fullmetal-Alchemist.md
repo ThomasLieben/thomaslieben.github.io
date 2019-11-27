@@ -16,13 +16,13 @@ Alors que 2019 s’achève tout doucement et que 2020 s’apprête à pointer le
 {: .lead}
 <!–-break-–>
 
-![Couverture de Fullmetal Alchemist tome 1]({{ "/uploads/Fullmetal.jpg" | absolute_url }})
-
 Ce que m’inspire 2020 c’est de refléter sur l’entièreté des œuvres que j’ai eu le plaisir de découvrir ces 20 dernières années. Ayant depuis quelques années maintenant utilisé cette plateforme pour partager des tas d’oeuvres, souvent musicales, que j’ai rencontrées, parfois furtivement, d’autres me suivant jusqu’à ce jour, j’ai pensé intéressant pour moi, avant de tourner la page 2019 et d’ouvrir le chapitre 2020, de partager une série d’oeuvres toutes ayant une place importante dans mon coeur et qui ont rythmé mes journées au cours de ces années.
 
 Toujours sur le mode de la bouteille à la mer pour qui verra et qui recevra ces quelques articles.
 
 Et sans suivre aucun ordre d’importance je commence aujourd’hui avec Fullmetal Alchemist.
+
+![Couverture de Fullmetal Alchemist tome 1]({{ "/uploads/Fullmetal.jpg" | absolute_url }})
 
 Fullmetal Alchemist est sans doute l’une des oeuvres, sinon la principale, qui soit responsable de mon amour et intérêt pour les mangas, qui n’a eu de cesses d’évoluer au coeur de ma vie, pour devenir une passion pour le pays qu’est le Japon et sa culture au sens large. Pour devenir aussi un projet de vie,  d’étude et de carrière.
 
