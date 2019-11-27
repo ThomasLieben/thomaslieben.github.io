@@ -1,5 +1,5 @@
 
-- - - -
+- - -
 layout: post
 title:  "Fullmetal Alchemist Brotherhood"
 tags:
@@ -10,7 +10,7 @@ cover: /uploads/levius-cover.jpg
 description: Levius, loin d’être une nouveauté du catalogue de Kana, me faisait de l’oeil depuis un moment. D’une part de par ses couvertures colorées aux illustrations d’une légèreté envoûtante bien que représentant une certaine rigidité et dureté des personnages, mais également par son format unique un sens de lecture occidental, mais d’origine s’il vous plaît ![...]
 overlay: orange
 published: true
-- - - -
+- - -
 ## Vingt ans dans un millénaire - Fullmetal Alchemist
 
 Alors que 2019 s’achève tout doucement et que 2020 s’apprête à pointer le bout de son nez, ce sont les vingts premières années de ce siècle et ce millénaire qui seront bientôt derrière. 2020 sera une année du symbolisme à bien des égards pour beaucoup d’entre-nous en fonction de nos sensibilités.
